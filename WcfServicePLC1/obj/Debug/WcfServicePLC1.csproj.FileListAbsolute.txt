@@ -1,0 +1,6 @@
+c:\users\adrianferreira\documents\visual studio 2013\Projects\WcfServicePLC1\WcfServicePLC1\bin\WcfServicePLC1.dll.config
+c:\users\adrianferreira\documents\visual studio 2013\Projects\WcfServicePLC1\WcfServicePLC1\bin\WcfServicePLC1.dll
+c:\users\adrianferreira\documents\visual studio 2013\Projects\WcfServicePLC1\WcfServicePLC1\bin\WcfServicePLC1.pdb
+c:\users\adrianferreira\documents\visual studio 2013\Projects\WcfServicePLC1\WcfServicePLC1\obj\Debug\WcfServicePLC1.dll
+c:\users\adrianferreira\documents\visual studio 2013\Projects\WcfServicePLC1\WcfServicePLC1\obj\Debug\WcfServicePLC1.pdb
+C:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\WcfServicePLC1\WcfServicePLC1\obj\Debug\WcfServicePLC1.csprojResolveAssemblyReference.cache
